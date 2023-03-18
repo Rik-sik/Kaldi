@@ -1,8 +1,8 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
+title: Fostering your business on it's digital-first journey!
 image: /img/home-jumbotron.jpg
-heading: Fostering your business on it's digital-first journey!
+heading: Great coffee with a conscience
 subheading: Building enterprise-grade digital solutions empowering business processes and customer experiences!
 mainpitch:
   title: Why Sumati
