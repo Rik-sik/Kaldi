@@ -2,8 +2,8 @@
 templateKey: index-page
 title: Great coffee with a conscience
 image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+heading: Fostering your business on it's digital-first journey!
+subheading: Building enterprise-grade digital solutions empowering business processes and customer experiences!
 mainpitch:
   title: Why Sumati
   description: >
